@@ -16,6 +16,7 @@
 - [ForTani](https://github.com/fadilabdil0711/ForTani.git) | ForTani built with PHP
 - [Task Tracer Plus](https://github.com/fadilabdil0711/Task-Tracer-Plus.git) | A Task Tracer built with Go
 - [Music Recommender System](https://github.com/fadilabdil0711/music-recommender-system.git) | Music Recommender System built with Python & Streamlit
+- [Gymmaestro](https://github.com/fadilabdil0711/gymmaestro) | Gymmaestro built with Java, React.js, React Native
  
 #### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚜𝚢𝚜𝚝𝚎𝚖
 
